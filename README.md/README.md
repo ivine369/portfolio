@@ -29,7 +29,7 @@
 
 - Push the changes to the branch you created so that it can reflect.("git push origin <branch name>")
 
-- After that it will prompt you to put your github user name  password.
+- After that it will prompt you to put your github user name and password.
 
 ## Technologies Used
 
