@@ -5,7 +5,7 @@
 
 ## Description
 
-- Basic information about me to help my customers and anyone who would want to reach out to me
+- Basic information about me to help my customers and anyone who would want to reach out to me.
 
 ## Setup/Installation Requirements
 
@@ -19,11 +19,11 @@
 
 ## Know Bugs
 
-- Fork the repo
+- Fork the repository.
 
 - Create new branch ('git checkout -b)
 
-- Make appropriate changes on your site then go terminal and ( 'git add <file name>')
+- Make appropriate changes on your site then go to the terminal and ( 'git add <file name>')
 
 - After adding those changes still in terminal write (git commit -m "message") so that you can commit changes
 
