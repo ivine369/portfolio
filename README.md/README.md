@@ -17,7 +17,7 @@
 
 * open index.html
 
-## Know Bugs
+## Known  Bugs
 
 - Fork the repository.
 
