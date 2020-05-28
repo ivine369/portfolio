@@ -46,7 +46,6 @@
 * MIT License
 
 in the Software without restriction, including without limitation the rights
-in the Software without restriction, including without limitation the rights
  
  Copyright (c) {2020} **Ivine Kemuma Ondieki**
  
