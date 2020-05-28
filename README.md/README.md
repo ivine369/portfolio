@@ -25,7 +25,7 @@
 
 - Make appropriate changes on your site then go to the terminal and ( 'git add <file name>')
 
-- After adding those changes still in terminal write (git commit -m "message") so that you can commit changes
+- After adding those changes in terminal write (git commit -m "message") so that you can commit changes
 
 - push the changes to the branch you created so that it can reflect.("git push origin <branch name>")
 
