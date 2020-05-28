@@ -1,19 +1,19 @@
  
-/* *{
+ /* *{
     margin: 0;
     padding: 0;
 }
 header{
     height: 20vh;
     background-image: url(https://images.unsplash.com/photo-1522338242992-e1a54906a8da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)navbar{
-    background-color: blue;
+    background-color: black;
 }
 body{
     background-image: url(https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?ixlib=rb-1.2.1&auto=format&ffit=crop&w=500&q=60);
     background-repeat: repeat;
 }
 header{
-    display:flex;
+    display: absolute;
 }
 h1{
     display:flex;
@@ -38,6 +38,6 @@ h1{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: pink;
+    background-color: black;
     z-index: 2;
 }
