@@ -27,9 +27,9 @@
 
 - After adding those changes in terminal write (git commit -m "message") so that you can commit changes
 
-- push the changes to the branch you created so that it can reflect.("git push origin <branch name>")
+- Push the changes to the branch you created so that it can reflect.("git push origin <branch name>")
 
-- After that it will prompt you to put your github user name then password.
+- After that it will prompt you to put your github user name  password.
 
 ## Technologies Used
 
